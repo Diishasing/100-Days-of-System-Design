@@ -51,5 +51,3 @@ Layer 7 load balancing operates at the **Application Layer** (handling HTTP/HTTP
 
 ### 📬 Follow the 100 Days Journey
 Want the daily editions early? I publish the complete, ad-free architectural deep dives daily on my Substack.
-
-`#100DaysOfSystemDesign` `#SoftwareEngineering` `#AI` `#Tech` `#DataScience` `#SystemDesign`
